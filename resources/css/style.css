@@ -10,15 +10,16 @@ font-weight: bold;
 #logo {
   color: MediumAquamarine;
   align-items: center;
+  justify-content: space-around;
 }
 
 nav {
   display: flex;
   display: inline-block;
+  justify-content: flex-end;
   color: black;
 }
 
 .top-nav{
-  justify-content: flex-end;
   align-items: center;
 }

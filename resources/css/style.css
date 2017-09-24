@@ -6,21 +6,24 @@ position: fixed;
 font-size: 14px;
 font-weight: bold;
 height: 100px
-width: 1000px;
+width: 100%;
 align-items: center;
-justify-content: space-around;
 }
 
 #logo {
   color: MediumAquamarine;
+  padding-left: 30px;
+}
+
+nav {
+  padding-left: 300px;
 }
 
 a {
   color: black;
 }
 
-nav {
+nav span{
   display: inline-block;
-  position: relative;
-  right: 800px;
+
 }

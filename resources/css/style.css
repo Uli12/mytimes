@@ -1,5 +1,5 @@
 /*header*/
-header {
+.header {
 display: flex;
 font-family: Verdana, sans-serif;
 position: fixed;

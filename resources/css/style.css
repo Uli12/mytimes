@@ -5,6 +5,8 @@ font-family: Verdana, sans-serif;
 position: fixed;
 font-size: 14px;
 font-weight: bold;
+height: 100px
+width: 1000px;
 }
 
 #logo {

@@ -15,7 +15,12 @@ justify-content: space-around;
   color: MediumAquamarine;
 }
 
-
 a {
   color: black;
+}
+
+nav {
+  display: inline-block;
+  position: relative;
+  right: 300px;
 }

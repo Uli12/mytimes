@@ -13,17 +13,12 @@ justify-content: space-around;
 
 #logo {
   color: MediumAquamarine;
-  align-items: center;
-  justify-content: space-around;
+
 }
 
-nav {
+.top-nav {
   display: flex;
   display: inline-block;
   justify-content: flex-end;
   color: black;
-}
-
-.top-nav{
-  align-items: center;
 }

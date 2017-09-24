@@ -13,12 +13,14 @@ justify-content: space-around;
 
 #logo {
   color: MediumAquamarine;
-
 }
 
 .top-nav {
   display: flex;
   display: inline-block;
   justify-content: flex-end;
+}
+
+a {
   color: black;
 }

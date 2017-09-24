@@ -1,0 +1,22 @@
+/*header*/
+header {
+display: flex;
+font-family: Verdana, sans-serif;
+position: fixed;
+font-size: 14px;
+font-weight: bold;
+}
+
+#logo {
+  color: MediumAquamarine;
+  align-items: center;
+}
+
+nav {
+  display: inline-block;
+}
+
+.top-nav{
+  justify-content: flex-end;
+  align-items: center;
+}

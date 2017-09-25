@@ -9,6 +9,7 @@ align-items: center;
 border-bottom: 1px solid black;
 width: 100%;
 padding-bottom: 10px;
+justify-content: space-between;
 }
 
 #logo {
@@ -23,7 +24,8 @@ img {
 header nav {
   diplay: inline-block;
   width: 800px;
-  justify-content: flex-end;
+  justify-items: center;
+  display: flex;
 }
 
 

@@ -23,6 +23,7 @@ img {
 nav {
   diplay: inline-block;
   float: right;
+  width: 200px;
 }
 
 

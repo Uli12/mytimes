@@ -13,7 +13,7 @@ padding-bottom: 10px;
 
 #logo {
   color: MediumAquamarine;
-  padding-left: 20px;
+  padding-left: 15px;
 }
 
 img {
@@ -22,6 +22,7 @@ img {
 
 header nav {
   diplay: block;
+  justify-content: flex-end;
 }
 
 

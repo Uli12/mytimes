@@ -22,5 +22,5 @@ a {
 
 nav span{
   display: inline-block;
-  justify-content: flex-end;
+  float: right;
 }

@@ -19,6 +19,10 @@ justify-content: space-between;
   align-items: center;
 }
 
+.logo span {
+  padding-left: 10px;
+}
+
 img {
   padding-left: 30px;
 }

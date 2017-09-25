@@ -27,6 +27,7 @@ header nav {
   diplay: inline-block;
   justify-items: center;
   display: flex;
+  padding-right: 30px;
 }
 
 

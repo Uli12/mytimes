@@ -15,6 +15,8 @@ justify-content: space-between;
 .logo {
   color: MediumAquamarine;
   padding-left: 15px;
+  display: flex;
+  align-items: center;
 }
 
 img {

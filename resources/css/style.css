@@ -15,9 +15,6 @@ align-items: center;
   padding-left: 20px;
 }
 
-nav {
-  padding-left: 500px;
-}
 
 a {
   color: black;
@@ -25,5 +22,5 @@ a {
 
 nav span{
   display: inline-block;
-
+  justify-content: flex-end;
 }

@@ -20,10 +20,10 @@ img {
   padding-left: 30px;
 }
 
-nav {
+header nav {
   diplay: inline-block;
   width: 800px;
-  float: right;
+  justify-content: flex-end;
 }
 
 

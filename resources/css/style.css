@@ -59,6 +59,7 @@ nav span{
   padding-top: 20px;
   padding-right: 5px;
   border: 1px solid black;
+  flex-direction: column;
 }
 
 .middle {
@@ -67,6 +68,7 @@ nav span{
   padding-left: 5px;
   padding-right: 5px;
   border: 1px solid black;
+  flex-direction: column;
 }
 
 .small {
@@ -74,4 +76,5 @@ nav span{
   padding-top: 20px;
   padding-left: 5px;
   border: 1px solid black;
+  flex-direction: column;
 }

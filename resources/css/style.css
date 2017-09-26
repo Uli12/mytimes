@@ -42,3 +42,10 @@ a {
 nav span{
   padding: 10px 15px;
 }
+
+/*main content*/
+
+.container {
+  display: flex;
+  flex-direction: row;
+}

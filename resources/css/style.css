@@ -53,3 +53,25 @@ nav span{
   padding-top: 116px;
   border: 1px solid black;
 }
+
+.large {
+  display: flex;
+  padding-top: 20px;
+  padding-right: 5px;
+  border: 1px solid black;
+}
+
+.middle {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border: 1px solid black;
+}
+
+.small {
+  display: flex;
+  padding-top: 20px;
+  padding-left: 5px;
+  border: 1px solid black;
+}

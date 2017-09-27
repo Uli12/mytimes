@@ -105,6 +105,7 @@ nav span{
   display: inline-block;
   display: flex;
   flex-flow: column wrap;
+  width: 630px;
 }
 
 .orca {

@@ -58,7 +58,7 @@ nav span{
 
 .large {
   display: flex;
-  margin-right: 5px;
+  margin-right: 10px;
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 3;
@@ -66,8 +66,8 @@ nav span{
 
 .middle {
   display: flex;
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;
@@ -75,7 +75,7 @@ nav span{
 
 .small {
   display: flex;
-  margin-left: 5px;
+  margin-left: 10px;
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;

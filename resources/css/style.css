@@ -76,6 +76,7 @@ nav span{
 .small {
   display: flex;
   margin-left: 25px;
+  margin-right: 25px;
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;

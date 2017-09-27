@@ -144,3 +144,10 @@ nav span{
   font-size: 17px;
   color: black;
 }
+
+.image-text {
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+}

@@ -93,7 +93,6 @@ nav span{
   align-items: flex-start;
   text-align: left;
   height: 300px;
-  margin-top: 0px;
 }
 
 .first {
@@ -110,7 +109,6 @@ nav span{
   display: flex;
   text-align: center;
   height: 300px;
-  margin-top: 0px;
 }
 
 .burger {
@@ -123,7 +121,6 @@ nav span{
   display: flex;
   text-align: center;
   height: 300px;
-  margin-top: 0px;
 }
 
 .advertising {
@@ -136,7 +133,6 @@ nav span{
   display: flex;
   text-align: center;
   height: 300px;
-  margin-top: 0px;
 }
 
 .brooklyn {
@@ -163,6 +159,7 @@ nav span{
   font-weight: bold;
   font-size: 30px;
   color: white;
+  margin-top: 0px;
 }
 
 .image-text.tuna {

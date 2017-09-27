@@ -86,12 +86,14 @@ nav span{
   width: 240px;
 }
 
-.image-text-tuna {
+.tuna {
   border: 1px solid black;
   width: 240px;
+  background-image: url("./resource/images/mainstory.png");
+  display: flex;
 }
 
-.first-article {
+.first {
   border: 1px solid black;
 }
 
@@ -99,24 +101,30 @@ nav span{
   border: 1px solid black;
 }
 
-.image-text-earth {
+.earth {
   border: 1px solid black;
+  background-image: url("./resource/images/fall.png")
+  display: flex;
 }
 
 .burger {
   border: 1px solid black;
 }
 
-.image-text-cameras {
+.cameras {
   border: 1px solid black;
+  background-image: url("./resource/images/cameraman.png")
+  display: flex;
 }
 
 .advertising {
   border: 1px solid black;
 }
 
-.image-text-cat {
+.cat {
   border: 1px solid black;
+  background-image: url("./resource/images/catceo.png")
+  display: flex;
 }
 
 .brooklyn {

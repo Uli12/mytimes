@@ -63,6 +63,7 @@ nav span{
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 3;
+  width: 630px;
 }
 
 .middle {
@@ -72,6 +73,7 @@ nav span{
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;
+  width: 300px;
 }
 
 .small {
@@ -81,6 +83,7 @@ nav span{
   border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;
+  width: 240px;
 }
 
 .image-text-tuna {

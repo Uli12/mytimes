@@ -59,6 +59,7 @@ nav span{
   margin-right: 5px;
   border: 1px solid black;
   flex-direction: column;
+  flex-grow: 3;
 }
 
 .middle {
@@ -67,6 +68,7 @@ nav span{
   margin-right: 5px;
   border: 1px solid black;
   flex-direction: column;
+  flex-grow: 2;
 }
 
 .small {
@@ -74,6 +76,7 @@ nav span{
   margin-left: 5px;
   border: 1px solid black;
   flex-direction: column;
+  flex-grow: 1;
 }
 
 .image-text-tuna {
@@ -97,5 +100,25 @@ nav span{
 }
 
 .image-text-cameras {
+  border: 1px solid black;
+}
+
+.advertising {
+  border: 1px solid black;
+}
+
+.image-text-cat {
+  border: 1px solid black;
+}
+
+.brooklyn {
+  border: 1px solid black;
+}
+
+.cookie {
+  border: 1px solid black;
+}
+
+.bites {
   border: 1px solid black;
 }

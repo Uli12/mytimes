@@ -100,6 +100,7 @@ nav span{
 }
 
 .bottom-four {
+  display: flex;
   flex-flow: column wrap;
 }
 

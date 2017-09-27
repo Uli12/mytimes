@@ -133,6 +133,7 @@ nav span{
 .cookie {
   border: 1px solid black;
   width: 240px;
+  justify-content: center;
 }
 
 .bites {
@@ -150,8 +151,10 @@ nav span{
   font-weight: bold;
   font-size: 30px;
   color: white;
+  justify-content: center;
 }
 
 .image-text.tuna {
   font-size: 40px;
+  justify-content: flex-start;
 }

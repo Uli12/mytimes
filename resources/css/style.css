@@ -13,6 +13,7 @@ justify-content: space-between;
 z-index: 5;
 background-color: white;
 padding-top: 0px
+height: 80px;
 }
 
 .logo {
@@ -101,7 +102,7 @@ nav span{
 }
 
 .bottom-four {
-  display: flex;
+  display: inline-flex;
   flex-flow: column wrap;
 }
 

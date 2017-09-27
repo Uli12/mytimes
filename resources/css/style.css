@@ -88,7 +88,6 @@ nav span{
 
 .tuna {
   border: 1px solid black;
-  width: 240px;
   background-image: url("./resource/images/mainstory.png");
   display: flex;
 }
@@ -133,8 +132,21 @@ nav span{
 
 .cookie {
   border: 1px solid black;
+  width: 240px;
 }
 
 .bites {
   border: 1px solid black;
+}
+
+.article {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
+
+.article#arizona {
+  font-family: Georgia;
+  font-size: 40px;
+  color: black;
 }

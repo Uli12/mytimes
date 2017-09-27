@@ -90,6 +90,7 @@ nav span{
   border: 1px solid black;
   background-image: url("../images/mainstory.png");
   display: flex;
+  align-items: flex-start;
   text-align: left;
 }
 
@@ -154,6 +155,7 @@ nav span{
   font-weight: bold;
   font-size: 30px;
   color: white;
+  height: 300px;
 }
 
 .image-text.tuna {

@@ -88,7 +88,7 @@ nav span{
 
 .tuna {
   border: 1px solid black;
-  background-image: url("../resource/images/mainstory.png");
+  background-image: url("../images/mainstory.png");
   display: flex;
 }
 
@@ -102,7 +102,7 @@ nav span{
 
 .earth {
   border: 1px solid black;
-  background-image: url("../resource/images/fall.png")
+  background-image: url("../images/fall.png")
   display: flex;
 }
 
@@ -112,7 +112,7 @@ nav span{
 
 .cameras {
   border: 1px solid black;
-  background-image: url("../resource/images/cameraman.png")
+  background-image: url("../images/cameraman.png")
   display: flex;
 }
 
@@ -122,7 +122,7 @@ nav span{
 
 .cat {
   border: 1px solid black;
-  background-image: url("../resource/images/catceo.png")
+  background-image: url("../images/catceo.png")
   display: flex;
 }
 

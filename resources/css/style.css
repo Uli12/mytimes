@@ -90,7 +90,7 @@ nav span{
   border: 1px solid black;
   background-image: url("../images/mainstory.png");
   display: flex;
-  justify-content: flex-end;
+  text-align: left;
 }
 
 .first {
@@ -105,7 +105,7 @@ nav span{
   border: 1px solid black;
   background-image: url("../images/fall.png");
   display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .burger {
@@ -116,7 +116,7 @@ nav span{
   border: 1px solid black;
   background-image: url("../images/cameraman.png");
   display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .advertising {
@@ -127,7 +127,7 @@ nav span{
   border: 1px solid black;
   background-image: url("../images/catceo.png");
   display: flex;
-  justify-content: center;
+  text-align: center;
 }
 
 .brooklyn {

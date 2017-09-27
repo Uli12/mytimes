@@ -99,6 +99,10 @@ nav span{
   border: 1px solid black;
 }
 
+.bottom-four {
+  flex-flow: column wrap;
+}
+
 .orca {
   border: 1px solid black;
 }

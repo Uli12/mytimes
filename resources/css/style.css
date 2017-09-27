@@ -159,9 +159,12 @@ nav span{
   font-weight: bold;
   font-size: 30px;
   color: white;
-  margin-top: 0px;
 }
 
 .image-text.tuna {
   font-size: 40px;
+}
+
+.image-text p {
+  margin-top: 0px;
 }

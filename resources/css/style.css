@@ -162,7 +162,7 @@ h3.news-bites {
   align-items: center;
 }
 
-p.bites {
+.bites {
   background-color: WhiteSmoke;
   font-family: Verdana;
   font-size: 12px;

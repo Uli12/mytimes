@@ -162,13 +162,13 @@ img.cookie {
   flex-direction: column;
 }
 
-h3.news-bites {
+.news-bites h3 {
   font-size: 16px;
   font-weight: bold;
   text-align: center;
 }
 
-span.bites {
+.news-bites .bites {
   display: block;
   background-color: WhiteSmoke;
   font-family: Verdana;

@@ -120,6 +120,10 @@ nav span{
   height: 300px;
 }
 
+.orca {
+  height: 80px;
+}
+
 .cat {
   background-image: url("../images/catceo.png");
   display: flex;

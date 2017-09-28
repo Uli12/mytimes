@@ -128,6 +128,7 @@ nav span{
 .cookie {
   width: 240px;
   padding: 0px;
+  padding-left: 0px;
 }
 
 .text-content {
@@ -154,6 +155,10 @@ nav span{
 .small-article {
   display: flex;
   flex-direction: column;
+}
+
+.news-bites {
+  display: flex;
 }
 
 h3.news-bites {

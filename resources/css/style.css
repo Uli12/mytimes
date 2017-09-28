@@ -1,3 +1,4 @@
+* { outline: 1px solid red; }
 /*header*/
 header {
 display: flex;
@@ -12,7 +13,8 @@ padding-bottom: 10px;
 justify-content: space-between;
 z-index: 5;
 background-color: white;
-padding-top: 0px
+padding-top: 0px;
+margin-top:: 0px;
 height: 80px;
 }
 
@@ -55,14 +57,12 @@ nav span{
   width: 100%;
   justify-content: space-between;
   padding-top: 116px;
-  border: 1px solid black;
   position: relative;
 }
 
 .large {
   display: flex;
   margin-right: 20px;
-  border: 1px solid black;
   flex-direction: column;
   flex-grow: 3;
   width: 630px;
@@ -72,7 +72,6 @@ nav span{
   display: flex;
   margin-left: 20px;
   margin-right: 20px;
-  border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;
   width: 300px;
@@ -82,14 +81,12 @@ nav span{
   display: flex;
   margin-left: 20px;
   margin-right: 40px;
-  border: 1px solid black;
   flex-direction: column;
   flex-grow: 1;
   width: 240px;
 }
 
 .tuna {
-  border: 1px solid black;
   background-image: url("../images/mainstory.png");
   display: flex;
   align-items: flex-start;
@@ -97,67 +94,43 @@ nav span{
   height: 300px;
 }
 
-.first {
-  border: 1px solid black;
-}
-
 .bottom-four {
-  display: inline-block;
   display: flex;
-  flex-flow: column wrap;
+  flex-direction: row;
   width: 630px;
 }
 
-.orca {
-  border: 1px solid black;
+.small.article {
+  display: flex;
+  flex-direction: column;
 }
 
 .earth {
-  border: 1px solid black;
   background-image: url("../images/fall.png");
   display: flex;
   text-align: center;
   height: 300px;
 }
 
-.burger {
-  border: 1px solid black;
-}
-
 .cameras {
-  border: 1px solid black;
   background-image: url("../images/cameraman.png");
   display: flex;
   text-align: center;
   height: 300px;
 }
 
-.advertising {
-  border: 1px solid black;
-}
-
 .cat {
-  border: 1px solid black;
   background-image: url("../images/catceo.png");
   display: flex;
   text-align: center;
   height: 300px;
 }
 
-.brooklyn {
-  border: 1px solid black;
-}
-
 .cookie {
-  border: 1px solid black;
   width: 240px;
 }
 
-.bites {
-  border: 1px solid black;
-}
-
-.article {
+.text-content {
   font-family: Georgia;
   font-size: 17px;
   color: black;
@@ -176,4 +149,9 @@ nav span{
 
 .image-text p {
   margin-top: 0px;
+}
+
+.small-article {
+  display: flex;
+  flex-direction: column;
 }

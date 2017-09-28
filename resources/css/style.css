@@ -176,16 +176,16 @@ nav span{
 .news-bites {
   display: flex;
   flex-direction: column;
-  background-color: whitesmoke;
   padding-right: 20px;
   color: dimgray;
   font-family: Verdana;
   font-size: 12px;
 }
 
-.news-bites span {
+.news-bites .bites {
   padding: 10px 0px 10px 20px;
   width: 100%;
   margin: 0px;
   border-bottom: 1px solid black;
+  background-color: whitesmoke;
 }

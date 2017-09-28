@@ -163,24 +163,25 @@ nav span{
   flex-direction: column;
 }
 
+.small-column h3 {
+  text-align: center;
+  font-weight: bold;
+  text-align: center;
+  font-size: 16px;
+}
+
 .news-bites {
   display: flex;
   flex-direction: column;
-}
-
-.news-bites h3 {
-  font-size: 16px;
-  font-weight: bold;
-  text-align: center;
-}
-
-.news-bites .bites {
-  display: block;
-  background-color: WhiteSmoke;
+  background-color: whitesmoke;
+  padding-right: 20px;
+  color: dimgray;
   font-family: Verdana;
-  font-size: 12px;
-  color: DimGray;
+}
+
+.news-bites span {
+  padding: 10px 0px 10px 20px;
+  width: 100%;
   margin: 0px;
-  border-top: 1px solid black;
   border-bottom: 1px solid black;
 }

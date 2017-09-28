@@ -168,7 +168,7 @@ nav span{
   text-align: center;
 }
 
-.news-bites .bites {
+.news-bites span.bites {
   display: block;
   background-color: WhiteSmoke;
   font-family: Verdana;

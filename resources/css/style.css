@@ -97,11 +97,13 @@ nav span{
   display: flex;
   flex-direction: row;
   width: 630px;
+  justify-content: space-between;
 }
 
 .small.article {
   display: flex;
   flex-direction: column;
+  width: 295px;
 }
 
 .earth {
@@ -158,7 +160,8 @@ nav span{
 }
 
 .news-bites {
-  display: block;
+  display: flex;
+  flex-direction: column;
 }
 
 .news-bites h3 {

@@ -168,7 +168,8 @@ h3.news-bites {
   font-weight: bold;
 }
 
-span.bites {
+.news-bites .bites {
+  display: block;
   background-color: WhiteSmoke;
   font-family: Verdana;
   font-size: 12px;

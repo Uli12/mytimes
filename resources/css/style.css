@@ -159,6 +159,7 @@ nav span{
 
 .news-bites {
   display: flex;
+  flex-direction: column;
 }
 
 h3.news-bites {

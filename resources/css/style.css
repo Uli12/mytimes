@@ -159,10 +159,10 @@ nav span{
 h3.news-bites {
   font-size: 16px;
   font-weight: bold;
-  justify-content: center;
+  align-items: center;
 }
 
-span.bites {
+p.bites {
   background-color: WhiteSmoke;
   font-family: Verdana;
   font-size: 12px;

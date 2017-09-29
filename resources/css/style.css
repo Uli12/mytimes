@@ -182,7 +182,7 @@ nav span{
   font-size: 12px;
 }
 
-.news-bites .bites {
+span.bites {
   padding: 10px 0px 10px 20px;
   width: 100%;
   margin: 0px;

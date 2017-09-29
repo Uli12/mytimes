@@ -180,12 +180,13 @@ nav span{
   color: dimgray;
   font-family: Verdana;
   font-size: 12px;
+  border-bottom: 1px solid black;
+  background-color: whitesmoke;
 }
 
 span.bites {
   padding: 10px 0px 10px 20px;
   width: 100%;
   margin: 0px;
-  border-bottom: 1px solid black;
-  background-color: whitesmoke;
+
 }

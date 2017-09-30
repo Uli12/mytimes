@@ -202,7 +202,7 @@ nav span{
   flex-direction: column;
 }
 
-footer .title {
+span.title {
   font-family: Georgia;
   font-size: 16px;
   font-weight: bold;

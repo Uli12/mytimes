@@ -199,6 +199,7 @@ nav span{
   font-family: Verdana;
   font-size: 12px;
   height: 300px;
+  flex-direction: column;
 }
 
 footer .footer-title {

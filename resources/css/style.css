@@ -202,12 +202,17 @@ nav span{
   flex-direction: column;
 }
 
+.bottom-container {
+  display: flex;
+  flex-direction: row;
+}
+
 span.title {
   font-family: Georgia;
   font-size: 16px;
   font-weight: bold;
   color: white;
-  boder-right: 2px;
+  border-right: 2px;
   border-color: white;
   padding-right: 10px;
 }
